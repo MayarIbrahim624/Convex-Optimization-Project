@@ -63,7 +63,7 @@ Energy-Consumption-Optimization/
 ├── data/
 │   └── energy_consumption.csv
 │
-├── notebooks/
+├── project/
 │   ├── part1_energy_model.ipynb
 │   ├── part2_convexity.ipynb
 │   ├── part3_nonconvex_model.ipynb
@@ -76,7 +76,7 @@ Energy-Consumption-Optimization/
 ### Structure Description
 
 - `data/`: Stores the electricity consumption dataset.
-- `notebooks/`: Contains the Jupyter Notebook for each project part.
+- `project/`: Contains the Jupyter Notebook for each project part.
 - `README.md`: Provides an overview and description of the project.
 
 ## 6. Expected Outcome
